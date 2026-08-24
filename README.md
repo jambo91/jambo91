@@ -39,8 +39,6 @@ My practical experience includes user administration, licence assignment, dynami
 
 ## Featured Projects
 
-My portfolio projects will demonstrate:
-
 - Microsoft Entra user and group management
 - Conditional Access and authentication security
 - Identity governance and access reviews
@@ -54,7 +52,7 @@ My portfolio projects will demonstrate:
 
 I am continuing to develop my practical experience in Identity and Access Management, Microsoft Entra ID, Microsoft 365 and cloud security.
 
-My goal is to help organisations manage identities securely and ensure that users receive the correct access to the correct resources.
+My goal is to help organizations manage identities securely and ensure that users receive the correct access to the correct resources.
 
 ## Connect With Me
 
